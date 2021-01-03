@@ -1,0 +1,7 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    margin: auto;
+    height: 2.5rem;
+    text-align: center;
+  }
